@@ -1,0 +1,9 @@
+name: "GR"
+output_dir: "."
+navbar:
+  title: "Gerardo Rojas"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Curriculum Vitae"
+      href: Curriculum_Vitae.html
