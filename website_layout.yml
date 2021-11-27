@@ -5,5 +5,5 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Curriculum Vitae"
-      href: Curriculum_Vitae.html
+    #- text: "Curriculum Vitae"
+    #  href: Curriculum_Vitae.html
